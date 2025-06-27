@@ -1,0 +1,11 @@
+# Ignore secret credentials and environment variables
+*.json
+.env
+
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+
+# OS junk
+.DS_Store
